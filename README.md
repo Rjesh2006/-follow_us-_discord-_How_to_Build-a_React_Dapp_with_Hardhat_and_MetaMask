@@ -217,49 +217,10 @@ yarn hardhat node
 
 ## here we have the structure's pf folder and files used to build this Dapp:--
 ![Screenshot 2024-04-23 220021](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/assets/143868643/1f26adfd-04cf-43d6-99d0-2fc9c355ca55)
-
 ![Screenshot 2024-04-23 220048](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/assets/143868643/e40050b9-05ab-4740-b6a8-f40ba3a842c7)
 
+## now here is the basic flow of my Dapp Deplpoyment:----📊
 
-Start
-|
-v
-Define Requirements and Design UI/UX
-|
-v
-Develop Smart Contracts using Hardhat
-|
-v
-Compile and Test Smart Contracts
-|
-v
-Deploy Smart Contracts to Ethereum Testnet/Mainnet (Optional)
-|
-v
-Set up MetaMask and Connect to Ethereum Network (Mainnet/Testnet)
-|
-v
-Install Necessary Packages (ethers.js, web3-react)
-|
-v
-Create React App using Create React App tool
-|
-v
-Integrate web3-react into React App
-|    ^
-|    |
-|    |_________ (Provider: InjectedProvider - MetaMask)
-|    |
-|    |_________ (Provider: NetworkProvider - Custom Ethereum Node)
-|
-v
-Implement Ethereum Transactions and Smart Contract Interactions
-|
-v
-Test React App with MetaMask on Localhost
-|
-v
-Host React App on Localhost
-|
-v
-End
+- ![Screenshot 2024-04-23 230205](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/assets/143868643/090aedce-f502-40fd-a762-22b3630715ca)
+  ![Screenshot 2024-04-23 230245](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/assets/143868643/cc23dd98-3634-45e3-9533-792fb6e72c4a)
+
