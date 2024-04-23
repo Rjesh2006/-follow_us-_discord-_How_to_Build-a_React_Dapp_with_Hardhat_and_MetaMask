@@ -215,4 +215,40 @@ yarn hardhat node
 
 ## hence we deployed our dapp :___successfully__🥇🕺
 
+## here we have the structure's pf folder and files used to build this Dapp:--
+``
+│
+├── contracts/
+│   └── greeter.sol
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   ├── .gitignore
+│   ├── package.json
+│   ├── tsconfig.json
+│   └── yarn.lock
+│
+├── tasks/
+│   └── deploy.ts
+│
+├── test/
+│   └── greeter_test.ts
+│
+├── .env.example
+├── .eslintignore
+├── .eslintrc.js
+├── .gitignore
+├── .npmignore
+├── .prettierignore
+├── .prettierrc.js
+├── .solhint.json
+├── .solhintignore
+├── LICENSE.md
+├── hardhat.config.ts
+├── package.json
+├── tsconfig.json
+└── yarn.lock
+``
+
       
