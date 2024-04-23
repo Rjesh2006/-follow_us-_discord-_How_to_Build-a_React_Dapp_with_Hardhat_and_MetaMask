@@ -119,8 +119,8 @@ Git is a version control system used for tracking changes in source code during 
 With these tools installed, you're ready to proceed with setting up your environment for building the React Dapp with Hardhat and MetaMask.
 
 
-##:_ Now move on with our main object :--:_🙇‍♀️
-   *here wil creat a another directory inside the previous dirctory where we have instanlled all those tools :--:_(do it carefully)😥
+## :_ Now move on with our main object    :--:_🙇‍♀️
+   *here wil creat a another directory inside the previous dirctory where we have instanlled all those tools :--:_(do it carefully)😥*
    
    ```
    mkdir <hardhat-ethers-react-ts-starter>
