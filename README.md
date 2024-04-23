@@ -19,7 +19,7 @@ Many existing "Build a Dapp" articles miss covering modern DeFi project workflow
 The tutorial prioritizes practical insights into DeFi workflows. Safety is crucial when transitioning to live networks; thorough research on blockchain security is recommended.
 
 
-   **This article will specifically use the following technologies all together: **
+   **This article will specifically use the following technologies all together:**
 
 - Hardhat
 - MetaMask
