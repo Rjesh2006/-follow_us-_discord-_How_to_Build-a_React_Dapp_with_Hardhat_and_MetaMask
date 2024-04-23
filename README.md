@@ -216,7 +216,7 @@ yarn hardhat node
 ## hence we deployed our dapp :___successfully__🥇🕺
 
 ## here we have the structure's pf folder and files used to build this Dapp:--
-``
+
 │
 ├── contracts/
 │   └── greeter.sol
@@ -249,6 +249,6 @@ yarn hardhat node
 ├── package.json
 ├── tsconfig.json
 └── yarn.lock
-``
+
 
       
