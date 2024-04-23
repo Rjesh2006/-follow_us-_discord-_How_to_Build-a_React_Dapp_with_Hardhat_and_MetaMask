@@ -213,6 +213,6 @@ yarn hardhat node
   - ![Screenshot 2024-04-23 112154](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/assets/143868643/0fa49a3a-f6f1-4c43-80a5-348c251c2d8a)
   - ![Screenshot 2024-04-23 112228](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/assets/143868643/cfde7961-92dd-4b96-87b6-2e1216f4dd9a)
 
-## hence we deployed our dapp :___successfulyy__🥇
+## hence we deployed our dapp :___successfully__🥇🕺
 
       
