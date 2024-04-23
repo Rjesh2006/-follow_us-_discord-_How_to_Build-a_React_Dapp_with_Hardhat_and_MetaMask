@@ -134,9 +134,9 @@ With these tools installed, you're ready to proceed with setting up your environ
  - what we have inside these folder's:⬇️
  - ![Screenshot 2024-04-23 143804](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/assets/143868643/1f83c632-ff4f-4609-8735-b5c29e6ce708)
     - click here to understand the particulars (programme file's) inside the folder
-    - [cache folder ]()
-    - [contract folder]()
-    - [frontend folder ]()
+    - [cache folder ](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/tree/main/cache_folder)
+    - [contract folder](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/tree/main/contracts_folder)
+    - [frontend folder ](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/tree/main/frontend_folder)
   
   
 ## now we ha install the project's dependencies::_🧃
