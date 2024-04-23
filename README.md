@@ -41,6 +41,11 @@ The tutorial prioritizes practical insights into DeFi workflows. Safety is cruci
 
 To get started, make sure you have the necessary tools installed and obtain the example code. You'll need Node.js and npm (Node Package Manager) installed on your system.
 
+## first we have to creat a directtory where we will isntal tihis thinks (tools)
+```
+mkdir <anyname>
+```
+*i created here <rl>*
 
 #### 1. Node.js Installation
 
@@ -114,8 +119,39 @@ Git is a version control system used for tracking changes in source code during 
 With these tools installed, you're ready to proceed with setting up your environment for building the React Dapp with Hardhat and MetaMask.
 
 
+##:_ Now move on with our main object :--:_🙇‍♀️
+   *here wil creat a another directory inside the previous dirctory where we have instanlled all those tools :--:_(do it carefully)😥
+   ``
+  mkdir <hardhat-ethers-react-ts-starter>
+   ``
+
+  - *after this you have to clone a github repo*:--🕶️
+    ```
+    git clone https://github.com/ChainShot/hardhat-ethers-react-ts-starter.git
+    ```
+
+   - *then after this u will see some files are created there in ur folder :--
+   -  ![Screenshot 2024-04-22 082750](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/assets/143868643/f4ec12a5-85dc-4563-90ae-9e3e8bff50a0)
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
