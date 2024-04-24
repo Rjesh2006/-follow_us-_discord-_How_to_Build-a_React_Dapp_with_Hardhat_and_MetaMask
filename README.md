@@ -1,6 +1,6 @@
 # Follow_us-_discord-                  How_to_Builda_React_Dapp_with_Hardhat_and_MetaMask
  - *Build a React dApp for reading and updating a greeting message via a basic "Greeter" smart contract on a local blockchain.*
-
+- here i am using vscode on windows 
  # React Dapp with Hardhat and MetaMask
 
 ## Overview
