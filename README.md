@@ -123,7 +123,7 @@ With these tools installed, you're ready to proceed with setting up your environ
 
 
 ## :_ Now move on with our main object    :--:_🙇‍♀️
-   *here wil creat a another directory inside the previous dirctory where we have instanlled all those tools :--:_(do it carefully)😥*
+   *here wil creat a another directory inside the previous dirctory where we have instanlled all those tools :--:_(do it carefully)👍*
    
    ```
    mkdir <hardhat-ethers-react-ts-starter>
