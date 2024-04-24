@@ -50,6 +50,9 @@ mkdir <anyname>
 #### 1. Node.js Installation
 
 Follow the instructions [here](https://nodejs.org/en/download/) to install Node.js. For this tutorial, ensure you install version 16.13.1 of Node.js.
+  - ** Why Node.js for DApp                   Development?**
+- Node.js provides a runtime             environment for executing JavaScript   code, making it compatible with        JavaScript-based smart contracts       commonly used in DApps.
+- The vast ecosystem of libraries and    tools available for Node.js can        streamline DApp development and        deployment processes.
 
 #### 2. Verify Installation
 
