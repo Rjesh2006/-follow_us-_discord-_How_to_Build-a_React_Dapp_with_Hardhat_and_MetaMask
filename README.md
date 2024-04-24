@@ -223,7 +223,8 @@ yarn hardhat node
 ![Screenshot 2024-04-23 220048](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/assets/143868643/e40050b9-05ab-4740-b6a8-f40ba3a842c7)
 
 ## now here is the basic flow of my Dapp Deplpoyment:----📊
+![Screenshot 2024-04-24 235423](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/assets/143868643/cb6ef4a8-4165-4a26-b239-c50909365618)
+![Screenshot 2024-04-24 235443](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/assets/143868643/9d8e29b0-f1b0-443a-bd2b-f606e06db04b)
 
-- ![Screenshot 2024-04-23 230205](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/assets/143868643/090aedce-f502-40fd-a762-22b3630715ca)
-  ![Screenshot 2024-04-23 230245](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/assets/143868643/cc23dd98-3634-45e3-9533-792fb6e72c4a)
+
 
