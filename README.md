@@ -45,7 +45,7 @@ To get started, make sure you have the necessary tools installed and obtain the 
 ```
 mkdir <anyname>
 ```
-*i created here <rl>*
+*i created here (rl)*
 
 #### 1. Node.js Installation
 
