@@ -43,7 +43,7 @@ To get started, make sure you have the necessary tools installed and obtain the 
 
 ## first we have to creat a directtory where we will isntal tihis thinks (tools)
 ```
-mkdir <anyname>
+mkdir <folder-name>
 ```
 *i created here (rl)*
 
