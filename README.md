@@ -142,7 +142,7 @@ With these tools installed, you're ready to proceed with setting up your environ
     - [frontend folder ](https://github.com/Rjesh2006/-follow_us-_discord-_How_to_Build-a_React_Dapp_with_Hardhat_and_MetaMask/tree/main/frontend_folder)
   
   
-## now we ha install the project's dependencies::_🧃
+## now we have installed the project's dependencies::_🧃
 ```
 yarn 
 ```
